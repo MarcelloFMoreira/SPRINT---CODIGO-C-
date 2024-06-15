@@ -26,7 +26,7 @@
 </tr>
 <tr></tr>
 <td>Marcello</td>
-<td>ICONE 1</td>
+<td><a href="https://github.com/MarcelloFMoreira"><img src="https://avatars.githubusercontent.com/u/161846509?v=4" height="50" style="max-width: 100%;"></a></td>
 <td>RM557531</td>
 <tr>
 <td>Alexandre </td>
@@ -35,7 +35,7 @@
  </tr>
 <tr>
 <td>Luiz</td>
-<td>ICONE 3</td>
+<td><a href="https://github.com/luyz-gusta"><img src="https://avatars.githubusercontent.com/u/110852235?v=4" height="50" style="max-width: 100%;"></a></td>
 <td>RM558358</td>
  </tr>
 <tr>

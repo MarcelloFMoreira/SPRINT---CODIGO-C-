@@ -1,4 +1,5 @@
 <h1>PROJETO SpeedSense<h1/>
+<p>
 <h1>Descrição do Projeto 📝</h1>
 <p>O SpeedSense é um projeto de medição de velocidade utilizando o microcontrolador Arduino Uno e um sensor de ultrassom HC-SR04. Este projeto é ideal para aprender e aplicar conceitos de eletrônica e programação, além de ser uma ferramenta prática para medir a velocidade de objetos em movimento.<p/>
 <h1>Componentes Utilizados 🛠️</h1>
@@ -48,6 +49,5 @@
 <td><a href="https://github.com/evojeda"><img src="https://avatars.githubusercontent.com/u/162588593?v=4" height="50" style="max-width: 100%;"></a></td>
 <td>RM557929</td>
  </tr>
-  
 </table>
-
+</p>

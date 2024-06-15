@@ -16,7 +16,7 @@
 <p>O projeto SpeedSense inova ao monitorar corridas de Fórmula E em tempo real, utilizando Arduino Uno e sensor ultrassom HC-SR04 para medir velocidades com precisão. O objetivo futuro é transmitir esses dados instantaneamente para uma plataforma web, oferece uma experiência imersiva tanto para espectadores quanto para equipes. As equipes podem otimizar o desempenho com análises em tempo real, enquanto o público acessa informações detalhadas durante as corridas.</p>
 <h1>Links do Projeto<h1/>
 <ul>
-<li><p> <a href="https://wokwi.com/projects/400404912645105665">Wokwi<a/></p><br></li>
+<li><p> <a href="https://wokwi.com/projects/400404912645105665">Wokwi<a/></p></li>
 <li><p><a href="###"> Video Explicativo <a/></p></li>
 </ul>
 <h1>Desenvolvedores 🤝</h1>
